@@ -1,0 +1,7 @@
+include ':ThreadPoolExample'
+include ':EventDispatchExample'
+include ':JetPackExample'
+include ':DesignPatternsExample'
+include ':CustomViewExample'
+include ':app'
+rootProject.name = "YangJinExample"

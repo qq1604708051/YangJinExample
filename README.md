@@ -1,2 +1,2 @@
 # YangJinExample
-平时练习
+个人平时练习
